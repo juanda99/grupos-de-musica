@@ -26,3 +26,27 @@ h1 {
     text-align: center;
     color: white;
 }
+h2{
+    border-bottom: 2px solid #F38630;
+}
+h1, h2, h3, h4{
+    color: #F38630;
+}
+.logo{
+    width: 447px;  
+    display:block;
+    margin: 0 auto;
+}
+li img {
+    width:50px;
+    height:auto;
+    vertical-align: middle;
+    margin: 5px;
+    border: 4px solid #A7DBD8;
+    padding: 5px;
+    background-color: #F38630;
+}
+.cantantes{
+    list-style-type: none;
+}
+.lugar {color: grey;}
