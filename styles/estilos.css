@@ -1,5 +1,6 @@
 body {
      background-color: #A7DBD8;
+    font-family: 'Expletus Sans', cursive;
 }
 header{
     background-color: #F38630;
@@ -25,9 +26,11 @@ nav a:hover {color: white;}
 h1 {
     text-align: center;
     color: white;
+    font-family: 'Ribeye Marrow', cursive;
 }
 h2{
     border-bottom: 2px solid #F38630;
+    font-family: 'Ribeye Marrow', cursive;
 }
 h1, h2, h3, h4{
     color: #F38630;
