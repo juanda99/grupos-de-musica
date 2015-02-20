@@ -53,3 +53,20 @@ li img {
     list-style-type: none;
 }
 .lugar {color: grey;}
+
+/*Formulario*/
+#contacto{
+    width:250px;
+    margin: 0 auto;
+}
+input, select {
+    display: block;
+    width: 95%;
+    margin-bottom: 15px;
+}
+
+input[type=submit], input[type=reset]{
+    display: inline;
+    width: 100px;
+}
+
