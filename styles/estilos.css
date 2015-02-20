@@ -69,4 +69,11 @@ input[type=submit], input[type=reset]{
     display: inline;
     width: 100px;
 }
+input[type=reset]{
+    margin-right: 50px;
+}
+input[type=checkbox], input[type=radio], label[for=hombre], label[for=mujer], label[for=newsletter]{
+ display: inline;
+    width: auto;
+}
 
