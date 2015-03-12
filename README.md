@@ -1,12 +1,8 @@
 # grupos-de-musica
 Archivos base para trabajar con css
 
-
-Introducción
-
-La web tratará sobre 3 grupos de música.
-
 ## Contenido
+La web tratará sobre 3 grupos de música:
 - Presentación de la página
 - Página con el listado y enlaces a al menos 3 grupos de música
 - Formulario de contacto.
