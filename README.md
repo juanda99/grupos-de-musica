@@ -14,13 +14,12 @@ La web tratará sobre 3 grupos de música:
 - Uso de fuentes de google
 - Paleta de colores
 - **Diseño responsivo con uso de media queries** de toda la página: video, menú, imágenes, texto...
-- Uso de media queries o código en servidor para que la página se visualice en al menos 2 perfiles de dispositivos diferentes (movil y PC). El viewport deberá ser de la anchura del dispositivo.
+  - Uso de media queries o código en servidor para que la página se visualice en al menos 2 perfiles de dispositivos diferentes (movil y PC). 
+  - El viewport deberá ser de la anchura del dispositivo.
 - Criterio mobile first.
-**Optimización de imágenes**
-- Las imágenes deberán estar en la resolución mínima necesaria.
-- Las imágenes tendrán que estar optimizadas para la resolución proporcionada.
-- El html tendrá que estar minified para la versión de producción.
-- Se valorará el uso de soluciones como normalize.css, modernizr, y en general cualquier otra solución que aparece en html boilerplate
+- **Optimización de imágenes**:
+  - Las imágenes deberán estar en la resolución mínima necesaria.
+  - Las imágenes tendrán que estar optimizadas para la resolución proporcionada.
 - Todo el código css y js deberá ir en ficheros externos (nunca en el html)
-**Se validará el código según la W3C**.
+- **Se validará el código según la W3C**.
 - El código del proyecto se realizará a partir de un fork de este repositorio. Tendrá que haber al menos **5 commmits en 3 días diferentes y la versión de producción se colgará en el servidor infenlaces de modo que sea accesible navegando desde www.infenlaces.com**
